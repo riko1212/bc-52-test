@@ -5,8 +5,11 @@
   |============================
 */
 @import url('./reset.css');
-@import url('./vite-promo.css');
-@import url('./header.css');
+@import url('./layouts/vite-promo.css');
+
+@import url('./layouts/header.css');
+@import url('./layouts/hero.css');
+@import url('./components/btn.css');
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
